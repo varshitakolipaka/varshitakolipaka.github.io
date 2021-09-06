@@ -1,2 +1,3 @@
 # varshitakolipaka.github.io
-Personal Website
+Hey there!
+Kindly Checkout varshitakolipaka.github.io/dist/homepage/homepage.html
